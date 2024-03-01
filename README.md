@@ -8,3 +8,8 @@
 - Name: Wahyu Cahyono. P
 - Program: Advanced AI
 
+## Tech Stack:
+- python
+- javascript
+- docker
+- html
