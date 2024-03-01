@@ -3,3 +3,8 @@
 ## Author:
 - Talha Siddiqui - A passionate individual who loves to work in the realm of software development.
 - Rohit Arora - A life-long learner that develops cool technology.
+
+## Mentee:
+- Name: Wahyu Cahyono. P
+- Program: Advanced AI
+
