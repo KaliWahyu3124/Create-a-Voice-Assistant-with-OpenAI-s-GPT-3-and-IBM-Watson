@@ -13,3 +13,9 @@
 - javascript
 - docker
 - html
+- css
+- shell
+
+## Tujuan:
+- Belajar membuat chatbot seperti chat GPT
+
